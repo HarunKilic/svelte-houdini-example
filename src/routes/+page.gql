@@ -1,0 +1,8 @@
+query AllProducts {
+	products {
+		items {
+			id
+			name
+		}
+	}
+}
